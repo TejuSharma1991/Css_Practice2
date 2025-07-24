@@ -1,0 +1,32 @@
+.Hello{
+    padding: 10px;
+    border-width: 10px;
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+
+}
+.good night{
+     padding: 5px;
+    border-width: 20px;
+     margin-right: 300px;
+   
+}
+p{
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+}
+img{
+
+    border: 5px solid black;
+    box-shadow: 10px 10px 5px grey;
+}
+img{
+
+    border: 5px solid black;
+    box-shadow: 10px 10px 5px grey;
+}
